@@ -1,6 +1,6 @@
-##Project is hosted at: https://slack-clone-9724b.web.app/
+# Project is hosted at: https://slack-clone-9724b.web.app/
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
